@@ -1,0 +1,13 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_380E8AD9_3448_1C71_41C7_9880F3A7D670.label = BS Wave
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BS Wave
