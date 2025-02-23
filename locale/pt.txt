@@ -3,11 +3,11 @@
 ## Media
 
 ### Title
-panorama_380E8AD9_3448_1C71_41C7_9880F3A7D670.label = BS Wave
+panorama_2CF35C4E_34D8_706E_41AF_2650FDF6CC03.label = BSWAVE
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = BS Wave
+tour.name = BS Wave Vista Aérea 
